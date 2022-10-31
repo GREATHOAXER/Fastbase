@@ -1,0 +1,2 @@
+# Fastbase
+firebase with fastapi
